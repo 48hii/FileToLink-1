@@ -1,0 +1,1 @@
+gunicorn app:app & python-3.7.6 -m tgfilestream
